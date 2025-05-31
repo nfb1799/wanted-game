@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import WantedGame from '@/components/game'
+import WantedGame from '@/components/wantedGame'
 
 export default {
   name: 'App',
