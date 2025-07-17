@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  publicPath: 'wanted-game',
+  publicPath: '/wanted-game/',
   transpileDependencies: true
 })
